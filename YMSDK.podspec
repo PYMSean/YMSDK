@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec| 
    spec.name             = 'YMSDK'
-   spec.version          = '1.0.0'
+   spec.version          = '1.0.1'
    spec.license          = { :type => 'Copyright',:text => 'Copyright 2019 ©  All rights reserved.'}
    spec.homepage         = 'http://www.baidu.com'
    spec.authors          = { 'joy' => '604862346@qq.com' }
