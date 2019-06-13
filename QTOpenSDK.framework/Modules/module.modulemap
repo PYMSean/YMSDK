@@ -1,0 +1,6 @@
+framework module QTOpenSDK {
+  umbrella header "QTOpenSDK.h"
+
+  export *
+  module * { export * }
+}
