@@ -1,0 +1,6 @@
+framework module PYMSDK {
+  umbrella header "PYMSDK.h"
+
+  export *
+  module * { export * }
+}
